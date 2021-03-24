@@ -1,11 +1,9 @@
 # frontend-task
 
-![image](https://user-images.githubusercontent.com/72811515/112288950-dd041900-8cb3-11eb-9be1-94e1e008254e.png)
+![image](https://user-images.githubusercontent.com/72811515/112296838-328ff400-8cbb-11eb-9ff4-a665afc4b5f3.png)
 
-![image](https://user-images.githubusercontent.com/72811515/112289186-15a3f280-8cb4-11eb-8185-7e861c3e71ed.png)
+![image](https://user-images.githubusercontent.com/72811515/112296932-4c313b80-8cbb-11eb-8f44-3b5e91a85d74.png)
 
-![image](https://user-images.githubusercontent.com/72811515/112289132-07ee6d00-8cb4-11eb-8f0f-0aeed7fb51b6.png)
+![image](https://user-images.githubusercontent.com/72811515/112297745-3f611780-8cbc-11eb-9fb8-ab1770502192.png)
 
-![image](https://user-images.githubusercontent.com/72811515/112289954-c611f680-8cb4-11eb-9101-3eca81373284.png)
-
-
+![image](https://user-images.githubusercontent.com/72811515/112297669-3112fb80-8cbc-11eb-9544-584bf2deb3a1.png)
